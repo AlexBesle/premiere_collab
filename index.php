@@ -9,5 +9,8 @@
 <body>
     <h1>Eh COUCOU</h1>
 
+<hr>
+    <h2>WEWEEEwe des idées pour le projet du coup?</h2>
+
 </body>
 </html>
